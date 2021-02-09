@@ -6,3 +6,4 @@ Ce projet viens d'un défi qu'on m'a donner, j'ai du apprendre et coder en html/
 
 Pour accéder au site, veuillez vous redirigez vers ce lien:
 https://tlnguyen-paris.github.io/ProjetHTML_CSS/
+![alt text](https://i.postimg.cc/s2tV99DS/htmlcss-main.png)
