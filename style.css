@@ -230,9 +230,9 @@ h3
 .overlay
 {
     background: rgba(255,255,255,0.95);
-    height: 100%;
-		width:195px;
-		padding: 20px;
+    height: 93%;
+    width:195px;
+    padding: 20px 0 0 0;
     border-radius: 10px 0 0 10px;
     text-align: center;
 }
